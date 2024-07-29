@@ -1,0 +1,11 @@
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\bin\Debug\net6.0\ChessLogic.deps.json
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\bin\Debug\net6.0\ChessLogic.dll
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\bin\Debug\net6.0\ChessLogic.pdb
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\obj\Debug\net6.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\obj\Debug\net6.0\ChessLogic.AssemblyInfoInputs.cache
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\obj\Debug\net6.0\ChessLogic.AssemblyInfo.cs
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\obj\Debug\net6.0\ChessLogic.csproj.CoreCompileInputs.cache
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\obj\Debug\net6.0\ChessLogic.dll
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\obj\Debug\net6.0\refint\ChessLogic.dll
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\obj\Debug\net6.0\ChessLogic.pdb
+G:\Dev\Documents\USIU\Year 1\SEM 3\APT1030\Chess\Chess_1\ChessLogic\obj\Debug\net6.0\ref\ChessLogic.dll
